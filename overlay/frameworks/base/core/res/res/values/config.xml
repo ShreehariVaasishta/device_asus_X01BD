@@ -709,4 +709,7 @@
          This service must be trusted, as it can be activated without explicit consent of the user.
          See android.attention.AttentionManagerService -->
     <string name="config_defaultAttentionService" translatable="false">com.google.android.as</string>
+
+    <!-- If this is true, device supports Sustained Performance Mode. -->
+    <bool name="config_sustainedPerformanceModeSupported">true</bool>
 </resources>
