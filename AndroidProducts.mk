@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019-2020 The Superior Project
+# Copyright (C) 2019-2020 The dot Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_X01BD.mk
+    $(LOCAL_DIR)/dot_X01BD.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_X01BD-eng \
-    superior_X01BD-user \
-    superior_X01BD-userdebug
+    dot_X01BD-eng \
+    dot_X01BD-user \
+    dot_X01BD-userdebug
