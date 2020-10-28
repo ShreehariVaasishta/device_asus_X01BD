@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019-2020 The dot Project
+# Copyright (C) 2019-2020 The pixys Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_X01BD.mk
+    $(LOCAL_DIR)/pixys_X01BD.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_X01BD-eng \
-    dot_X01BD-user \
-    dot_X01BD-userdebug
+    pixys_X01BD-eng \
+    pixys_X01BD-user \
+    pixys_X01BD-userdebug
