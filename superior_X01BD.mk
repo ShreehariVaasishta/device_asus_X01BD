@@ -51,7 +51,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="coral-user 11 RP1A.201005.004 6782484 release-keys"
 
 # Build fingerprint
-BUILD_FINGERPRINT := google/coral/coral:11/RP1A.201005.004/6782484:user/release-keys
-
-# Maintainer
-#XTENDED_MAINTAINER := 🔥SonalSingh18🔥
+BUILD_FINGERPRINT := "google/coral/coral:11/RP1A.201005.004/6782484:user/release-keys"
