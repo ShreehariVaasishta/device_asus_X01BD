@@ -457,6 +457,3 @@ PRODUCT_PACKAGES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/asus/X01BD/X01BD-vendor.mk)
-
-# Gapps
-$(call inherit-product-if-exists, vendor/google/gms/config.mk)
